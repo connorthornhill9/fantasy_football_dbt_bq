@@ -14,6 +14,7 @@ SELECT
   tck.gameId,
   tck.playId,
   gam.gameDate,
+  gam.week,
   ply.quarter,
   ply.gameClock,
   ply.down,
