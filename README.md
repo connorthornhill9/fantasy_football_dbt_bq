@@ -21,5 +21,5 @@ We can also see that Jordyn Brooks has more missed tackles duiring the last 2 qu
 
 ## Conclusion
 
-I forsee this as a self service dashboard where I could further work on the design and charts with stakeholder. For now, I was happy with the result to integrate DBT, BigQuerym and Tableau to create a fairly useful product.
+I forsee this as a self service dashboard where I could further work on the design and charts with stakeholders. For now, I was happy with the result to integrate DBT, BigQuery and Tableau to create a fairly useful product.
 
